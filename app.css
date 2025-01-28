@@ -27,7 +27,7 @@ cursor:none;
     width: 400px;;
     font-size: 25px;;
     background-image:url(https://img.freepik.com/free-photo/white-paper-texture_1194-5416.jpg?w=360);
-    z-index:2;
+    z-index:0;
     top:60px;
     left: 8%;
 /*     animation: moveLetter 4s linear infinite; */
