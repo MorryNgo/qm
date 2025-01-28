@@ -10,7 +10,7 @@ const text = ['Gửi','MyLove','của','anh','❤❤❤',':','Anh','biết','hi�
 nap.addEventListener("click",open)
 function open(){
     song.play()
-    song.currentTime = 3*60 + 38
+    song.currentTime = 3*60 + 37
     song.loop = true
     nap.style.animation = "monap linear 3s forwards"
     setTimeout(function(){box.style.animation = "moveEnvelope 5s ease-in-out forwards"
